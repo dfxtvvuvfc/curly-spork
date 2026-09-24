@@ -1,0 +1,6 @@
+{
+  "name": "پنل هوشمند ساخت کانفیگ | V2Ray & Sing-box",
+  "description": "پنل اختصاصی و مدرن ساخت و مدیریت کانفیگ‌های VLESS، VMess، Trojan، Sing-box و Clash با آی‌پی تمیز کلودفلر و فرگمنت",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
